@@ -1,0 +1,10 @@
+body {
+    font-family: 'Courier New';
+}
+h1 {
+    font-family: Verdana;
+}
+p {
+    font-style: italic;
+}
+p.italico {font-size: 30px;}

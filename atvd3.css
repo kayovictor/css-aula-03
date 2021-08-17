@@ -1,0 +1,7 @@
+h1 {background-color: green;
+color: white;}
+body {background-color: lightblue;
+    background-image: url("imagem.png");
+    background-repeat: no-repeat;
+    background-position-x: bottom right;
+    background-attachment: fixed;}
